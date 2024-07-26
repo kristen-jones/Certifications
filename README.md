@@ -1,4 +1,4 @@
-# Certifications
+# Completed Courses and Certifications
 
 Welcome to my certifications page! Here, you'll find a curated list of courses and certifications I have completed to enhance my skills and knowledge. Each entry includes a brief summary of the course, a link to the certificate, and the completion date.
 
@@ -18,3 +18,7 @@ These certifications reflect my commitment to professional development and my ex
 - **Provider:** Rahul Shetty Academy
 - **Summary:** Mastered both basic and advanced Selenium techniques with Python, including handling pop-ups, synchronization, and integrating with test frameworks.
 - **Completion Date:** [Month, Year]
+
+
+### **CS50's Introduction to Programming with Python: edX, HarvardX - IN PROGRESS**
+- jgfn
