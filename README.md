@@ -1,4 +1,4 @@
-# Completed Courses and Certifications
+<h1 align='center'>Completed Courses and Certifications</h1>
 
 Welcome to my certifications page! Here, you'll find a curated list of courses and certifications I have completed to enhance my skills and knowledge. Each entry includes a brief summary of the course, a link to the certificate, and the completion date.
 
