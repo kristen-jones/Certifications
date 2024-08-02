@@ -8,7 +8,6 @@ These certifications reflect my commitment to professional development and my ex
 ## List of Certifications
 
 ### Selenium WebDriver with Python (SuperSQA)
-- **Certificate Link:** [View Certificate](URL-to-Certificate)
 - **Provider:** SuperSQA
 - **Summary:** Developed foundational skills in Selenium WebDriver and Python automation, including setup, writing test scripts, and handling web elements.
 - **Completion Date:** July 2024
