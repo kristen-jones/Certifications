@@ -13,9 +13,8 @@ These certifications reflect my commitment to professional development and my ex
 - **Completion Date:** July 2024
 
 ### Selenium Python Automation Testing from Scratch + Frameworks (Rahul Shetty Academy)
-- **Certificate Link:** [View Certificate](URL-to-Certificate)
 - **Provider:** Rahul Shetty Academy
-- **Summary:** Mastered both basic and advanced Selenium techniques with Python, including handling pop-ups, synchronization, and integrating with test frameworks.
+- **Summary:** Mastered basic and advanced Selenium techniques with Python, including handling pop-ups, synchronization, and integrating with test frameworks.
 - **Completion Date:** July 2024
 
  ### **Exercising Leadership: Foundation Principles: edX, HarvardX**  
