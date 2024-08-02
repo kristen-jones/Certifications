@@ -25,8 +25,8 @@ These certifications reflect my commitment to professional development and my ex
 - **Summary:** Explored foundational leadership principles, including diagnosing situations, managing stakeholders, and driving change.   
 - **Completion Date:** July 2024
   
-### **Python Programming for Beginners**  
-- **Certificate Link:** [View Certificate](https://learn.codesignal.com/certificates/clv3ls31l000oevv8hmw44rk4/course-paths/6))
+### **Python Programming for Beginners: Codesignal**  
+- **Certificate Link:** [View Certificate](https://learn.codesignal.com/certificates/clv3ls31l000oevv8hmw44rk4/course-paths/6)
 - **Provider:** Codesignal
 - **Summary:** Developed a comprehensive understanding of Python syntax and fundamental programming concepts   
 - **Completion Date:** June 2024
